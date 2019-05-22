@@ -6,5 +6,6 @@ Pillow
 hachoir
 PyDrive
 pyrogram
+python 3.7.3
 ffmpeg-python
 numpy
